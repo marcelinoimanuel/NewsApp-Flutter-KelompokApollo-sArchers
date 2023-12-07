@@ -1,16 +1,14 @@
-# newsapp
+### NewsApp-Flutter
 
-A new Flutter project.
 
-## Getting Started
+## Kelompok Apollo's Archers :
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+1. Holly Praisy Lapian 210211060041
+2. Hartanto Wendy Dasuki 210211060130
+3. Marcelino Imanuel Wuntuan 210211060310
+4. Jorgha Akram Aryandi 230214060116
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Video Presentasi :
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## File Apk :
